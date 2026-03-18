@@ -89,18 +89,7 @@ O núcleo do processamento segue esta lógica algorítmica baseada em Visão Com
 
 ---
 
-### 🙋 Contribuições
 
-Contribuições são bem-vindas! Se você deseja melhorar o projeto:
-
-1. Faça um **Fork** do repositório.
-2. Crie uma nova **Branch** (`git checkout -b feature/nome-da-feature`).
-3. Comite suas alterações (`git commit -m 'Adicionando nova funcionalidade'`).
-4. Abra um **Pull Request**.
-
-
-
----
 
 ### ✨ Autor
 
