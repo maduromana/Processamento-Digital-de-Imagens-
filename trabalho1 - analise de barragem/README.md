@@ -37,7 +37,8 @@ Antes de rodar o projeto, certifique-se de ter o **Python 3.8** ou superior inst
 
 ```bash
 pip install opencv-python pillow matplotlib numpy
-
+```
+---
 ## 🚀 Como Rodar
 
 Siga os comandos abaixo no seu terminal para configurar e executar o projeto:
@@ -54,7 +55,7 @@ pip install opencv-python pillow matplotlib numpy
 
 # 4. Execute o analisador
 python analise_barragem.py
-
+```
 
 ### 📝 Passo a Passo na Interface
 
