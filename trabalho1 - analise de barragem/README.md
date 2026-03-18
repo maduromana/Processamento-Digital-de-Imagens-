@@ -74,7 +74,6 @@ Para realizar a análise corretamente, siga estas etapas dentro do software:
 | Arquivo | Descrição |
 | :--- | :--- |
 | `analise_barragem.py` | Código principal do analisador com interface gráfica (GUI). |
-| `TRABALHO_1_ Segmentação por Cor (1).pdf` | Documentação técnica e relatório detalhado do projeto. |
 | `video_barragem.mp4` | Exemplo de vídeo para teste de detecção. |
 
 ---
